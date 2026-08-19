@@ -1,0 +1,15 @@
+{
+  "name": "Libreta Digital de Conserjería",
+  "short_name": "Libreta Digital",
+  "description": "Libreta Digital de Conserjería · Piloto 4.7",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f2f2f2",
+  "theme_color": "#222222",
+  "lang": "es-ES",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
